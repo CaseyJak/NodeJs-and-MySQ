@@ -8,16 +8,16 @@
 
 * Buy an item
 
-(images/bamazon_init_choice.png)
+![Bamazon First](images/bamazon_init_choice.png)
 
 * You can keep shopping after you bought the first time 
 
-(/images/bamazon_sec_choice.png)
+![Bamazon Second](/images/bamazon_sec_choice.png)
 
 * If you make a wrong choice you will not be able to buy
 
-(/images/bamazon_wrongChoice.png)
+![Bamazon Wrong](/images/bamazon_wrongChoice.png)
 
 * Connection well end on it's own
 
-(/images/bamazon_end.png)
+![Bamazon End](/images/bamazon_end.png)
