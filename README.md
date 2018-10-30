@@ -4,11 +4,11 @@
 
 * Welcome screenshot
 
-(/images/bamazon_welcome.png)
+![Bamazon Welcome](images/bamazon_welcome.png)
 
 * Buy an item
 
-(/images/bamazon_init_choice.png)
+(images/bamazon_init_choice.png)
 
 * You can keep shopping after you bought the first time 
 
